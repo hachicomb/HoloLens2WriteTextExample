@@ -1,7 +1,7 @@
 # Overview
 
 - Write the text file in HoloLens 2.
-- Download text file from Device Portal (HoloLens 2).
+- Download the text file from Device Portal (HoloLens 2).
 
 ![image](https://raw.githubusercontent.com/hachicomb/HoloLens2WriteTextExample/master/images/ss01.png)
 ![image](https://raw.githubusercontent.com/hachicomb/HoloLens2WriteTextExample/master/images/ss02.png)
