@@ -3,6 +3,9 @@
 - Write the text file in HoloLens 2.
 - Download text file from Device Portal (HoloLens 2).
 
+![image](https://raw.githubusercontent.com/hachicomb/HoloLens2WriteTextExample/master/images/ss01.png)
+![image](https://raw.githubusercontent.com/hachicomb/HoloLens2WriteTextExample/master/images/ss02.png)
+
 # Enviroment
 - Unity 2019.4.22f1
 - MixedRealityFeatureTool-1.0.2103.2-Beta
